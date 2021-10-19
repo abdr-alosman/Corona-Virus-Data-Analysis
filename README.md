@@ -1,5 +1,6 @@
 # Corona-Virus-Data-Analysis
 
+Project link Kaggle : https://www.kaggle.com/abdulrhmanalosman/covid-19-analysis-visualization-prediction
 In this project, I made data analysis on a dataset that was shared by the World Health Organization on the kaggle and was constantly updated.
 
 ## What is coronavirus?
